@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+
+       <test>
+              <question>When does method overloading is determined?</question>
+              <option1>At run time</option1>
+              <option2>At compile time</option2>
+              <option3>At coding time</option3>
+              <option4>At execution time</option4>
+              <answer>2</answer>
+       </test>
+
+
+       <test>
+              <question>What is the stored in the object 'object' in following lines of code?Box object;</question>
+              <option1>Memory address of allocated memory of object</option1>
+              <option2>NULL</option2>
+              <option3>Any arbitrary pointer</option3>
+              <option4>Garbage</option4>
+              <answer>2</answer>
+       </test>
+       <test>
+              <question>Which of these keywords is used to make a class?</question>
+              <option1>class</option1>
+              <option2>structure</option2>
+              <option3>integer</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+
+<test>
+              <question> Which of the following is a garbage collection technique?</question>
+              <option1>Cleanup model</option1>
+              <option2>Mark and sweep model</option2>
+              <option3>Space management model</option3>
+              <option4>None of the above</option4>
+              <answer>2</answer>
+       </test>
+<test>
+              <question>An exception is</question>
+              <option1>Runtime error</option1>
+              <option2>Compile time error</option2>
+              <option3>Logical error</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+		<test>
+              <question>Which exception is thrown when java is out of memory?</question>
+              <option1>MemoryFullException</option1>
+              <option2>MemoryOutOfBoundsException</option2>
+              <option3>OutOfMemoryError</option3>
+              <option4>MemoryError</option4>
+              <answer>3</answer>
+       </test>
+		<test>
+              <question>What is the return type of Constructors?</question>
+              <option1>float</option1>
+              <option2>integer</option2>
+              <option3>void</option3>
+              <option4>double</option4>
+              <answer>3</answer>
+       </test>
+		<test>
+              <question>Which keyword is used by method to refer to the object that invoked it?</question>
+              <option1>import</option1>
+              <option2>this</option2>
+              <option3>catch</option3>
+              <option4>None of the above</option4>
+              <answer>2</answer>
+       </test>
+		<test>
+              <question>Which of the following is a method having same name as that of its class?</question>
+              <option1>constructor</option1>
+              <option2>class</option2>
+              <option3>object</option3>
+              <option4>method</option4>
+              <answer>1</answer>
+       </test>
+
+		<test>
+              <question>Which of these class is superclass of String and StringBuffer class?</question>
+              <option1>java.util</option1>
+              <option2>java.lang</option2>
+              <option3>java.string</option3>
+              <option4>None</option4>
+              <answer>2</answer>
+       </test>
+
+		<test>
+              <question>Which of these operators can be used to concatenate two or more String objects?</question>
+              <option1>+</option1>
+              <option2>-</option2>
+              <option3>|</option3>
+              <option4>#</option4>
+              <answer>1</answer>
+       </test>
+
+</tests>

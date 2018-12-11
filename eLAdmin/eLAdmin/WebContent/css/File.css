@@ -1,0 +1,146 @@
+@CHARSET "ISO-8859-1";
+.background-image {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  display: block;
+  background-image: url("e-Learning.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.content {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* Style the header */
+header {
+    
+    padding: 25px;
+    text-align: center;
+    font-size: 35px;
+    color: black; 
+ 
+}
+header h1{
+	color: #fef4f3; 
+   font: bold 52px Helvetica, Arial, Sans-Serif;
+   text-shadow: 1px 1px #2aa9db, 
+                2px 2px #fe4902, 
+                3px 3px #fe4902;
+}
+h6{
+	
+    position: fixed;
+    top: 80px;
+    left: 430px;
+    width: 500px;
+	font-size:16px;
+	color:black;
+	text-shadow: 2px 2px 0 silver;
+}
+.login {
+    background-color: #4ab6e0; /* Green */
+    top: 40px;
+    right:50px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+
+article {
+
+    padding: 20px;
+    width: 100%;
+   
+    height: 420px; /* only for demonstration, should be removed */
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0495c9;
+    border-color: #357ebd; /*set the color you want here*/
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #00b3db;
+    border-color: #285e8e; /*set the color you want here*/
+}
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 0px;
+    text-align: center;
+    color: white;
+}
+p.head{
+	font-size: 35px;
+	color:#2f5687; 
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+}
+p.body{
+	    text-align:center;
+	    position: fixed;
+    	top: 220px;
+    	left: 430px;
+   	 	width: 500px;
+		font-size:16px;
+}
+.btn btn-dark{
+	
+	display: block;
+    color: white;
+    text-decoration: none;
+}
+section .btn{
+		margin-left:93px;
+	    margin-right:75px;
+}
+.centerImg{
+	position:absolute;
+  	top:250px;
+  	left:400px;
+  	height: 290px;
+    width: 40%;
+    background-image:url("body.jpg");
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+p.center{
+	font-size:40px;
+	padding : 150px;
+	font-family: "Times New Roman", Times, serif;
+	color: #ff0080;
+}
+
+.types .btn{
+		margin-left:70px;
+	    margin-right:55px;
+}

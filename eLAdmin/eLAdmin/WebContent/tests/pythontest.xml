@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+       <test>
+              <question>What is called when a function is defined inside a class?</question>
+              <option1>Method</option1>
+              <option2>Module</option2>
+              <option3>class</option3>
+              <option4>Another function</option4>
+              <answer>1</answer>
+       </test>
+       <test>
+              <question>Which of the following is the use of id() function?</question>
+              <option1>Id returns the identity of the object</option1>
+              <option2>Every object doesn’t have a unique id</option2>
+              <option3>All of the mentioned</option3>
+              <option4>None</option4>
+              <answer>1</answer>
+       </test>
+       <test>
+              <question>This is a_______ based language</question>
+              <option1>Interpreter</option1>
+              <option2>Compiler</option2>
+              <option3>Both</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+
+       <test>
+              <question>Which of these is not a core data type?</question>
+              <option1>Lists</option1>
+              <option2>Dictionary</option2>
+              <option3>Tuples</option3>
+              <option4>class</option4>
+              <answer>4</answer>
+       </test>
+       <test>
+              <question>What data type is the object below ? L = [1, 23, 'hello', 1]</question>
+              <option1>List</option1>
+              <option2>Set</option2>
+              <option3>Tuple</option3>
+              <option4>Dictionary</option4>
+              <answer>1</answer>
+       </test>
+	<test>
+              <question>Which of the following function convert a string to a float?</question>
+              <option1>integer(x [,base])</option1>
+              <option2>long(x [,base] )</option2>
+              <option3>float(x)</option3>
+              <option4>string(x)</option4>
+              <answer>3</answer>
+       </test>
+	<test>
+              <question>print "Hello World"[::-1]</question>
+              <option1>Hello</option1>
+              <option2>Hello World</option2>
+              <option3>dlroW olleH</option3>
+              <option4>Error</option4>
+              <answer>2</answer>
+       </test>
+       <test>
+              <question>An exception is</question>
+              <option1>Runtime error</option1>
+              <option2>Compile time error</option2>
+              <option3>Logical error</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+	<test>
+              <question>Given a function that does not return any value, what value is shown when executed at the shell?</question>
+              <option1>integer</option1>
+              <option2>float</option2>
+              <option3>char</option3>
+              <option4>None</option4>
+              <answer>4</answer>
+       </test>
+
+		<test>
+              <question>Given a string s = “Welcome”, which of the following code is incorrect?</question>
+              <option1>print s[1]</option1>
+              <option2>s[1]='r'</option2>
+              <option3>print s.strip</option3>
+              <option4>None of the above</option4>
+              <answer>2</answer>
+       </test>
+
+		<test>
+              <question>Which of the following is correct</question>
+              <option1>It supports automatic garbage collection.</option1>
+              <option2>It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java</option2>
+              <option3>Both of the above</option3>
+              <option4>None of the above</option4>
+              <answer>3</answer>
+       </test>
+</tests>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+       <test>
+              <question>the format identifier '%i' is also used for __ data type.</question>
+              <option1>char</option1>
+              <option2>integer</option2>
+              <option3>float</option3>
+              <option4>double</option4>
+              <answer>2</answer>
+       </test>
+       <test>
+              <question>Which data type is most suitable for storing a number 65000 in a 32-bit system</question>
+              <option1>signed short</option1>
+              <option2>unsigned short</option2>
+              <option3>long</option3>
+              <option4>integer</option4>
+              <answer>2</answer>
+       </test>
+       <test>
+              <question>Which of the following is true about return type of functions in C?</question>
+              <option1>Functions can return any type</option1>
+              <option2>Functions can return any type except array and functions</option2>
+              <option3>Functions can return any type except array, functions and union</option3>
+              <option4>Functions can return any type except array, functions, function pointer and union</option4>
+              <answer>2</answer>
+       </test>
+       <test>
+              <question>Any C program</question>
+              <option1>Must contain at least one function</option1>
+              <option2>Need not contain any function</option2>
+              <option3>Needs input data</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+ 
+       <test>
+              <question>What is the size of an int data type?</question>
+              <option1>4 bytes</option1>
+              <option2>8 bytes</option2>
+              <option3>Depends on the system/compiler</option3>
+              <option4>Cannot be determined</option4>
+              <answer>3</answer>
+       </test>
+
+<test>
+              <question>Compiler generates ___ file.</question>
+              <option1>Executable code</option1>
+              <option2>Object code</option2>
+              <option3>Assembly code</option3>
+              <option4>None of the above</option4>
+              <answer>2</answer>
+       </test>
+<test>
+              <question>An exception is</question>
+              <option1>Runtime error</option1>
+              <option2>Compile time error</option2>
+              <option3>Logical error</option3>
+              <option4>None of the above</option4>
+              <answer>1</answer>
+       </test>
+<test>
+              <question>Choose the correct unary operators in C  a) !, b) ~, c) , d) ++</question>
+              <option1>a, b, d</option1>
+              <option2>a, b, c</option2>
+              <option3>b, c, d</option3>
+              <option4>c, d, a</option4>
+              <answer>1</answer>
+       </test>
+
+<test>
+              <question>For a structure, if a variable behave as a pointer then from the given below operators which operator can be used to access data of the structure via the variable pointer?</question>
+              <option1>- .</option1>
+              <option2>- %</option2>
+              <option3>- -></option3>
+              <option4>- #</option4>
+              <answer>3</answer>
+       </test>
+
+
+<test>
+              <question>If the two strings are identical, then stirng compare function returns</question>
+              <option1>-1</option1>
+              <option2>1</option2>
+              <option3>0</option3>
+              <option4>Yes</option4>
+              <answer>0</answer>
+       </test>
+
+       </tests>
